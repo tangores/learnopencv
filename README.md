@@ -1,10 +1,91 @@
-# learnopencv
-Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](https://www.LearnOpenCV.com)
+# LearnOpenCV
+This repo contains code for Computer Vision, Deep learning, and AI articles shared on our blog [LearnOpenCV.com](https://www.LearnOpenCV.com).
+
+Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start.
+
+<a href="https://opencv.org/courses/">
+<p align="center">
+<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
+</p>
+</a>
 
 ## List of Blog Posts
-
 | Blog Post | |
 | ------------- |:-------------|
+|[Real-time style transfer in a zoom meeting](https://learnopencv.com/real-time-style-transfer-in-a-zoom-meeting/)|[Code](https://github.com/spmallick/learnopencv/tree/master/style-transfer-zoom)|
+| [Introduction to OpenVino Deep Learning Workbench](https://learnopencv.com/introduction-to-openvino-deep-learning-workbench/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Introduction-to-OpenVino-Deep-Learning-Workbench) |
+| [Running OpenVino Models on Intel Integrated GPU](https://learnopencv.com/running-openvino-models-on-intel-integrated-gpu/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Running-OpenVino-Models-on-Intel-Integrated-GPU) |
+|[Post Training Quantization with OpenVino Toolkit](https://learnopencv.com/post-training-quantization-with-openvino-toolkit/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Post-Training-Quantization-with-OpenVino-Toolkit)|
+|[Introduction to Intel OpenVINO Toolkit](https://learnopencv.com/introduction-to-intel-openvino-toolkit/)||
+|[Human Action Recognition using Detectron2 and LSTM](https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Human-Action-Recognition-Using-Detectron2-And-Lstm)|
+|[Pix2Pix:Image-to-Image Translation in PyTorch & TensorFlow](https://learnopencv.com/paired-image-to-image-translation-pix2pix/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Image-to-Image-Translation-with-GAN)|
+|[Conditional GAN (cGAN) in PyTorch and TensorFlow](https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Conditional-GAN-PyTorch-TensorFlow)|
+|[Deep Convolutional GAN in PyTorch and TensorFlow](https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Deep-Convolutional-GAN)|
+|[Introduction to Generative Adversarial Networks (GANs)](https://learnopencv.com/introduction-to-generative-adversarial-networks/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Intro-to-Generative-Adversarial-Network)|
+|[Human Pose Estimation using Keypoint RCNN in PyTorch](https://learnopencv.com/human-pose-estimation-using-keypoint-rcnn-in-pytorch/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Keypoint-RCNN)|
+|[Non Maximum Suppression: Theory and Implementation in PyTorch](https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch)|[Code](https://github.com/spmallick/learnopencv/tree/master/Non-Maximum-Suppression)|
+|[MRNet – The Multi-Task Approach](https://learnopencv.com/mrnet-multitask-approach/)| [Code](https://github.com/spmallick/learnopencv/tree/master/MRnet-MultiTask-Approach) |
+|[Generative and Discriminative Models](https://learnopencv.com/generative-and-discriminative-models/)| |
+|[Playing Chrome's T-Rex Game with Facial Gestures](https://learnopencv.com/playing-chromes-t-rex-game-with-facial-gestures/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Playing-Chrome-TRex-Game-with-Facial-Gestures) |
+|[Variational Autoencoder in TensorFlow](https://learnopencv.com/variational-autoencoder-in-tensorflow/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow) |
+|[Autoencoder in TensorFlow 2: Beginner’s Guide](https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Autoencoder-in-TensorFlow) |
+|[Deep Learning with OpenCV DNN Module: A Definitive Guide](https://learnopencv.com/deep-learning-with-opencvs-dnn-module-a-definitive-guide/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Deep-Learning-with-OpenCV-DNN-Module) |
+|[Depth perception using stereo camera (Python/C++)](https://learnopencv.com/depth-perception-using-stereo-camera-python-c/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Depth-Perception-Using-Stereo-Camera) |
+|[Contour Detection using OpenCV (Python/C++)](https://learnopencv.com/contour-detection-using-opencv-python-c/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Contour-Detection-using-OpenCV) |
+|[Super Resolution in OpenCV](https://learnopencv.com/super-resolution-in-opencv/)| [Code](https://github.com/spmallick/learnopencv/blob/master/Super-Resolution-in-OpenCV) |
+|[Improving Illumination in Night Time Images](https://learnopencv.com/improving-illumination-in-night-time-images/)| [Code](https://github.com/spmallick/learnopencv/tree/master/Improving-Illumination-in-Night-Time-Images) |
+|[Video Classification and Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/) | [Code](https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition) |
+|[How to use OpenCV DNN Module with Nvidia GPU on Windows](https://learnopencv.com/how-to-use-opencv-dnn-module-with-nvidia-gpu-on-windows) | [Code](https://github.com/spmallick/learnopencv/tree/master/OpenCV-dnn-gpu-support-Windows) |
+|[How to use OpenCV DNN Module with NVIDIA GPUs](https://learnopencv.com/opencv-dnn-with-gpu-support/) | [Code](https://github.com/spmallick/learnopencv/tree/master/OpenCV-dnn-gpu-support-Linux) |
+|[Code OpenCV in Visual Studio](https://learnopencv.com/code-opencv-in-visual-studio/) | |
+|[Install OpenCV on Windows – C++ / Python](https://learnopencv.com/install-opencv-on-windows/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Install-OpenCV-Windows-exe) |
+|[Face Recognition with ArcFace](https://www.learnopencv.com/face-recognition-with-arcface/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Face-Recognition-with-ArcFace)|
+|[Background Subtraction with OpenCV and BGS Libraries](https://www.learnopencv.com/background-subtraction-with-opencv-and-bgs-libraries/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Background-Subtraction) |
+|[RAFT: Optical Flow estimation using Deep Learning](https://learnopencv.com/optical-flow-using-deep-learning-raft/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-Estimation-using-Deep-Learning-RAFT)|
+|[Making A Low-Cost Stereo Camera Using OpenCV](https://www.learnopencv.com/making-a-low-cost-stereo-camera-using-opencv/)|[Code](https://github.com/spmallick/learnopencv/tree/master/stereo-camera)|
+|[Optical Flow in OpenCV (C++/Python)](https://www.learnopencv.com/optical-flow-in-opencv)|[Code](https://github.com/spmallick/learnopencv/tree/master/Optical-Flow-in-OpenCV)|
+|[Introduction to Epipolar Geometry and Stereo Vision](https://www.learnopencv.com/introduction-to-epipolar-geometry-and-stereo-vision/)|[Code](https://github.com/spmallick/learnopencv/tree/master/EpipolarGeometryAndStereoVision)|
+|[Classification With Localization: Convert any keras Classifier to a Detector](https://www.learnopencv.com/classification-with-localization/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Classification-with-localization-convert-any-keras-classifier-into-a-detector/README.md) |
+|[Photoshop Filters in OpenCV](https://www.learnopencv.com/photoshop-filters-in-opencv/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Photoshop-Filters-in-OpenCV)|
+|[Tetris Game using OpenCV Python](https://www.learnopencv.com/tetris-with-opencv-python)|[Code](https://github.com/spmallick/learnopencv/tree/master/Tetris)|
+|[Image Classification with OpenCV for Android](https://www.learnopencv.com/image-classification-with-opencv-for-android/) | [Code](https://github.com/spmallick/learnopencv/tree/master/DNN-OpenCV-Classification-Android) |
+|[Image Classification with OpenCV Java](https://www.learnopencv.com/image-classification-with-opencv-java)|[Code](https://github.com/spmallick/learnopencv/tree/master/DNN-OpenCV-Classification-with-Java) |
+|[PyTorch to Tensorflow Model Conversion](https://www.learnopencv.com/pytorch-to-tensorflow-model-conversion/) | [Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-to-TensorFlow-Model-Conversion) |
+|[Snake Game with OpenCV Python](https://www.learnopencv.com/snake-game-with-opencv-python/)|[Code](https://github.com/spmallick/learnopencv/tree/master/SnakeGame) |
+|[Stanford MRNet Challenge: Classifying Knee MRIs](https://www.learnopencv.com/stanford-mrnet-challenge-classifying-knee-mris/)|[Code](https://github.com/spmallick/learnopencv/tree/master/MRNet-Single-Model) |
+|[Experiment Logging with TensorBoard and wandb](https://www.learnopencv.com/experiment-logging-with-tensorboard-and-wandb)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Vision-Experiment-Logging) |
+|[Understanding Lens Distortion](https://www.learnopencv.com/understanding-lens-distortion/)|[Code](https://github.com/spmallick/learnopencv/tree/master/UnderstandingLensDistortion) |
+|[Image Matting with state-of-the-art Method “F, B, Alpha Matting”](https://www.learnopencv.com/image-matting-with-state-of-the-art-method-f-b-alpha-matting/)|[Code](https://github.com/spmallick/learnopencv/tree/master/FBAMatting) |
+|[Bag Of Tricks For Image Classification - Let's check if it is working or not](https://www.learnopencv.com/bag-of-tricks-for-image-classification-lets-check-if-it-is-working-or-not/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Bag-Of-Tricks-For-Image-Classification) |
+|[Getting Started with OpenCV CUDA Module](https://www.learnopencv.com/getting-started-opencv-cuda-module/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Getting-Started-OpenCV-CUDA-Module) |
+|[Training a Custom Object Detector with DLIB & Making Gesture Controlled Applications](https://www.learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Training_a_custom_hand_detector_with_dlib) |
+|[How To Run Inference Using TensorRT C++ API](https://www.learnopencv.com/how-to-run-inference-using-tensorrt-c-api/) | [Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT-CPP) |
+|[Using Facial Landmarks for Overlaying Faces with Medical Masks](https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks/)|[Code](https://github.com/spmallick/learnopencv/tree/master/FaceMaskOverlay) |
+|[Tensorboard with PyTorch Lightning](https://www.learnopencv.com/tensorboard-with-pytorch-lightning)|[Code](https://github.com/spmallick/learnopencv/tree/master/TensorBoard-With-Pytorch-Lightning) |
+|[Otsu's Thresholding with OpenCV](https://www.learnopencv.com/otsu-thresholding-with-opencv/)|[Code](https://github.com/spmallick/learnopencv/tree/master/otsu-method) |
+|[PyTorch-to-CoreML-model-conversion](https://www.learnopencv.com/pytorch-to-coreml-model-conversion/) | [Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-to-CoreML-model-conversion) |
+|[Playing Rock, Paper, Scissors with AI](https://www.learnopencv.com/playing-rock-paper-scissors-with-ai/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Playing-rock-paper-scissors-with-AI) |
+|[CNN Receptive Field Computation Using Backprop with TensorFlow](https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/)|[Code](https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Receptive-Field-With-Backprop)|
+|[CNN Fully Convolutional Image Classification with TensorFlow](https://www.learnopencv.com/cnn-fully-convolutional-image-classification-with-tensorflow) | [Code](https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Fully-Convolutional-Image-Classification) |
+|[How to convert a model from PyTorch to TensorRT and speed up inference](https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) | [Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-ONNX-TensorRT) |
+|[Efficient image loading](https://www.learnopencv.com/efficient-image-loading/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Efficient-image-loading) |
+|[Graph Convolutional Networks: Model Relations In Data](https://www.learnopencv.com/graph-convolutional-networks-model-relations-in-data/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Graph-Convolutional-Networks-Model-Relations-In-Data)|
+|[Getting Started with Federated Learning with PyTorch and PySyft](https://www.learnopencv.com/federated-learning-using-pytorch-and-pysyft/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Federated-Learning-Intro)|
+|[Creating a Virtual Pen & Eraser](http://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser) |
+|[Getting Started with PyTorch Lightning](https://www.learnopencv.com/getting-started-with-pytorch-lightning/)|[Code](https://github.com/spmallick/learnopencv/tree/master/Pytorch-Lightning)|
+|[Multi-Label Image Classification with PyTorch: Image Tagging](https://www.learnopencv.com/multi-label-image-classification-with-pytorch-image-tagging/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification-Image-Tagging)|
+|[Funny Mirrors Using OpenCV](https://www.learnopencv.com/Funny-Mirrors-Using-OpenCV/)|[code](https://github.com/spmallick/learnopencv/tree/master/FunnyMirrors)|
+|[t-SNE for ResNet feature visualization](https://www.learnopencv.com/t-sne-for-resnet-feature-visualization/)|[Code](https://github.com/spmallick/learnopencv/tree/master/TSNE)|
+|[Multi-Label Image Classification with Pytorch](https://www.learnopencv.com/multi-label-image-classification-with-pytorch/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Multi-Label-Image-Classification)|
+|[CNN Receptive Field Computation Using Backprop](https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Receptive-Field-With-Backprop)|
+|[CNN Receptive Field Computation Using Backprop with TensorFlow](https://www.learnopencv.com/cnn-receptive-field-computation-using-backprop-with-tensorflow/)|[Code](https://github.com/spmallick/learnopencv/tree/master/TensorFlow-Receptive-Field-With-Backprop)|
+|[Augmented Reality using AruCo Markers in OpenCV(C++ and Python)](https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-(c++-python)/) |[Code](https://github.com/spmallick/learnopencv/tree/master/AugmentedRealityWithArucoMarkers)|
+|[Fully Convolutional Image Classification on Arbitrary Sized Image](https://www.learnopencv.com/fully-convolutional-image-classification-on-arbitrary-sized-image/)|[Code](https://github.com/spmallick/learnopencv/tree/master/PyTorch-Fully-Convolutional-Image-Classification)|
+|[Camera Calibration using OpenCV](https://www.learnopencv.com/camera-calibration-using-opencv/) |[Code](https://github.com/spmallick/learnopencv/tree/master/CameraCalibration)|
+|[Geometry of Image Formation](https://www.learnopencv.com/geometry-of-image-formation/) ||
+|[Ensuring Training Reproducibility in Pytorch](https://www.learnopencv.com/ensuring-training-reproducibility-in-pytorch) ||
+|[Gaze Tracking](https://www.learnopencv.com/gaze-tracking/) ||
+|[Simple Background Estimation in Videos Using OpenCV](https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/) | [Code](https://github.com/spmallick/learnopencv/tree/master/VideoBackgroundEstimation)|
 |[Applications of Foreground-Background separation with Semantic Segmentation](https://www.learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/) | [Code](https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg) |
 |[EfficientNet: Theory + Code](https://www.learnopencv.com/efficientnet-theory-code) | [Code](https://github.com/spmallick/learnopencv/tree/master/EfficientNet) |
 |[PyTorch for Beginners: Mask R-CNN Instance Segmentation with PyTorch](https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch/) | [Code](./PyTorch-Mask-RCNN) |
@@ -58,7 +139,7 @@ Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenC
 |[Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) | [Code](https://github.com/spmallick/learnopencv/tree/master/BatchNormalization)|
 |[Deep Learning based Character Classification using Synthetic Dataset](https://www.learnopencv.com/deep-learning-character-classification-using-synthetic-dataset/) | [Code](https://github.com/spmallick/learnopencv/tree/master/CharClassification)|
 |[Image Quality Assessment : BRISQUE](https://www.learnopencv.com/image-quality-assessment-brisque/)| [Code](https://github.com/spmallick/learnopencv/tree/master/ImageMetrics)|
-|[Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/)|
+|[Understanding AlexNet](https://www.learnopencv.com/understanding-alexnet/)||
 |[Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)| [Code](https://github.com/spmallick/learnopencv/tree/master/OCR)|
 |[Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)|[ Code](https://github.com/spmallick/learnopencv/tree/master/OpenPose)|
 |[Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)](https://www.learnopencv.com/number-of-parameters-and-tensor-sizes-in-convolutional-neural-network/)| |
